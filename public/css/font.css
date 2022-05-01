@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Indigo';
+    src: url('IndigoRegular-Regular.woff2') format('woff2'),
+        url('IndigoRegular-Regular.woff') format('woff'),
+        url('IndigoRegular-Regular.ttf') format('truetype'),
+        url('IndigoRegular-Regular.svg#IndigoRegular-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+h1,h2,h3,h4,h5,h6,a,label{
+    font-family: 'Indigo';
+    font-weight: normal;
+    font-style: normal;
+}
